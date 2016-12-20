@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 956,
+                        "endColumn": 46,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 48,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1260,
+                        "endColumn": 48,
+                        "endOffset": 1304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 56,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 56,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 55,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1309,
+                        "endColumn": 55,
+                        "endOffset": 1360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 45,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 45,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 45,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 45,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 48,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1144,
+                        "endColumn": 48,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 48,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1003,
+                        "endColumn": 48,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 55,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 55,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 46,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 46,
+                        "endOffset": 951
+                    }
+                }
+            }
+        ]
+    }
+]

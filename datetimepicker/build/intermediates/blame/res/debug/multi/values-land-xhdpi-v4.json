@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land-xhdpi-v4\\values-land-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-land-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 897,
+                        "endColumn": 59,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 64,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-land-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 64,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 46,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-land-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 46,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 48,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-land-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 48,
+                        "endOffset": 891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 54,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-land-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 54,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 55,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-land-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1133,
+                        "endColumn": 55,
+                        "endOffset": 1184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 54,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-land-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 54,
+                        "endOffset": 1073
+                    }
+                }
+            }
+        ]
+    }
+]

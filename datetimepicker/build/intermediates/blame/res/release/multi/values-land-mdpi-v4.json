@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land-mdpi-v4\\values-land-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-land-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 48,
+                        "endOffset": 910
+                    }
+                }
+            }
+        ]
+    }
+]

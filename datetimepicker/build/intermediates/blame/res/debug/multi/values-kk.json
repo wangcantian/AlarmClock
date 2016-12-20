@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk\\values-kk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 65,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1726,
+                        "endColumn": 65,
+                        "endOffset": 1787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 73,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1071,
+                        "endColumn": 73,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 88,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1427,
+                        "endColumn": 92,
+                        "endOffset": 1515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 44,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 44,
+                        "endOffset": 780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 84,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 785,
+                        "endColumn": 84,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 98,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1324,
+                        "endColumn": 102,
+                        "endOffset": 1422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 86,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 870,
+                        "endColumn": 86,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 62,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1613,
+                        "endColumn": 62,
+                        "endOffset": 1671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 49,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1676,
+                        "endColumn": 49,
+                        "endOffset": 1721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 59,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 59,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endColumn": 55,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 55,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 57,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 57,
+                        "endOffset": 1066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endColumn": 52,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 52,
+                        "endOffset": 1319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 47,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1520,
+                        "endColumn": 47,
+                        "endOffset": 1563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 44,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1568,
+                        "endColumn": 44,
+                        "endOffset": 1608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 65,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-kk\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endColumn": 65,
+                        "endOffset": 1206
+                    }
+                }
+            }
+        ]
+    }
+]

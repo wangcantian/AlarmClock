@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="date_picker_component_width">222dp</dimen>
+    <dimen name="date_picker_view_animator_height">250dp</dimen>
+    <dimen name="dialog_height">200dip</dimen>
+    <dimen name="extra_time_label_margin">-24dp</dimen>
+    <dimen name="left_side_width">220dip</dimen>
+    <dimen name="selected_date_day_size">88dp</dimen>
+    <dimen name="selected_date_month_size">26dp</dimen>
+    <dimen name="selected_date_year_size">26dp</dimen>
+    <dimen name="time_label_size">56sp</dimen>
+</resources>

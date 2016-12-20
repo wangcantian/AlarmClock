@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw768dp-land-v13\\values-sw768dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw768dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 48,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 55,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw768dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 55,
+                        "endOffset": 913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 48,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "E:\\Android\\WorkSapce\\AlarmClockDemo\\datetimepicker\\src\\main\\res\\values-sw768dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 48,
+                        "endOffset": 1011
+                    }
+                }
+            }
+        ]
+    }
+]

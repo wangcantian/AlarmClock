@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dc="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <paul.gdaib.com.alarmclock.view.TextTime
+            android:id="@+id/tt_clock_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:baselineAligned="true"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/alarm_time_font_size"
+            dc:format12Hour="@string/alarm_time_12_hours_format"
+            dc:format24Hour="@string/clock_24_hours_format" />
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/s_on_off"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical|end" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_dayOfWeeks"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <paul.gdaib.com.alarmclock.view.SquareTextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="周"
+            android:textSize="@dimen/listitem_dayofweek_textsize" />
+
+        <paul.gdaib.com.alarmclock.view.SquareToggleButton
+            style="@style/day_of_week_view"
+            android:textOff="日"
+            android:textOn="日" />
+
+        <paul.gdaib.com.alarmclock.view.SquareToggleButton
+            style="@style/day_of_week_view"
+            android:textOff="一"
+            android:textOn="一" />
+
+        <paul.gdaib.com.alarmclock.view.SquareToggleButton
+            style="@style/day_of_week_view"
+            android:textOff="二"
+            android:textOn="二" />
+
+        <paul.gdaib.com.alarmclock.view.SquareToggleButton
+            style="@style/day_of_week_view"
+            android:textOff="三"
+            android:textOn="三" />
+
+        <paul.gdaib.com.alarmclock.view.SquareToggleButton
+            style="@style/day_of_week_view"
+            android:textOff="四"
+            android:textOn="四" />
+
+        <paul.gdaib.com.alarmclock.view.SquareToggleButton
+            style="@style/day_of_week_view"
+            android:textOff="五"
+            android:textOn="五" />
+
+        <paul.gdaib.com.alarmclock.view.SquareToggleButton
+            style="@style/day_of_week_view"
+            android:textOff="六"
+            android:textOn="六" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp">
+
+        <TextView
+            android:id="@+id/tv_label"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableLeft="@mipmap/ic_label"
+            android:drawablePadding="@dimen/ico_label_text_padding"
+            android:text="标签：该起床了！"
+            android:textSize="@dimen/label_text_textsize" />
+
+        <ImageView
+            android:id="@+id/iv_edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="5dp"
+            android:src="@mipmap/ic_edit" />
+    </LinearLayout>
+</LinearLayout>
+

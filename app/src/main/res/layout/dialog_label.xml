@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/labelBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dip"
+        android:layout_marginLeft="8dip"
+        android:layout_marginRight="8dip"
+        android:layout_marginStart="8dip"
+        android:layout_marginTop="16dp"
+        android:hint="@string/label"
+        android:inputType="textCapSentences"
+        android:padding="8dp"
+        android:selectAllOnFocus="true" />
+
+    <View
+        android:id="@+id/hairline"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/labelBox"
+        android:layout_marginTop="16dp"
+        android:background="#28ffffff" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hairline">
+
+        <Button
+            android:id="@+id/cancelButton"
+            style="@style/dialog_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/item_background"
+            android:text="@string/button_cancel" />
+
+        <View
+            android:layout_width="1dip"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="8dip"
+            android:layout_marginTop="8dip"
+            android:background="#28ffffff" />
+
+        <Button
+            android:id="@+id/setButton"
+            style="@style/dialog_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/item_background"
+            android:text="@string/button_ok" />
+    </LinearLayout>
+</RelativeLayout>

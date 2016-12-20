@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#13ffffff</color>
+    <color name="colorPrimaryDark">#13ffffff</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#c22222</color>
+    <color name="white">#fff</color>
+    <color name="day_of_week_bule">#4a8aff</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparent_white">#66ffffff</color>
+
+    <color name="alarm_label_font_color">#ffd176</color>
+    <color name="alarm_close_btn_bg_color">#6cbe79</color>
+</resources>
